@@ -9,15 +9,24 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: rgb(176, 140, 209);
+    color: rgb(209, 201, 216);
 }
 
 p, label {
-    color: rgb(110, 77, 65);
+    color: rgb(99, 221, 109);
 }
 
 input {
     border: none;
-    border-bottom: 1px cornsilk;
+    border-bottom: 1px rgba(21, 199, 154, 0.719);
     padding: 10px 0;
 }
+
+input [type="text"], input [type="number"], input [type="date"], input [type="file"], textarea {
+    width: 400px;
+}
+
+textarea {
+    padding: 10px 5px;
+}
+
