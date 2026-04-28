@@ -13,12 +13,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, label {
-    color: rgb(1, 3, 1);
+    color: rgb(233, 138, 15);
 }
 
 input {
     border: none;
-    border-bottom: 1px rgba(11, 17, 16, 0.719);
+    border-bottom: 1px rgba(224, 111, 18, 0.719);
     padding: 10px 0;
 }
 
@@ -37,6 +37,6 @@ textarea {
 }
 
 .cabecalho h3{
-    color: black;
+    color: rgb(238, 11, 11);
     margin-top: 0;
 }
