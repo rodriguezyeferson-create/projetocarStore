@@ -48,3 +48,24 @@ textarea {
     margin: 0 auto;
     top: -46px;
 }
+
+.form-header {
+    border-bottom: 1px solid cornsilk;
+    height: 45px;
+}
+
+.form-header p {
+    color: rgb(0, 218, 218);
+    border-bottom: 2px solid rgb(69, 231, 54);
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    height: 45px;
+    list-style: 45px;
+
+}
+
+.form-body {
+    padding: 30px;
+}
