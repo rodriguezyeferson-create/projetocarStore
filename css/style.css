@@ -82,3 +82,20 @@ textarea {
     color: beige;
 }
 
+.caixainputs {
+    margin-bottom: 35px;
+}
+
+.block {
+    display: block;
+}
+
+.caixaopcional {
+    display: inline-block;
+    margin: 0 30px 0 30px;
+}
+
+.caixaopcional li {
+    list-style: none;
+    margin-bottom: 5px;
+}
