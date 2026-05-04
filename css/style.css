@@ -99,3 +99,20 @@ textarea {
     list-style: none;
     margin-bottom: 5px;
 }
+
+.btn-subimit {
+    background-color: antiquewhite;
+    color: aliceblue;
+    border: 2px solidtr transparent;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+
+.btn-subimit:hover {
+    background-color: blue;
+    color: blueviolet;
+    border-color: blueviolet;
+}
